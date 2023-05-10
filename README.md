@@ -47,4 +47,4 @@
 ## 코드 실행 방법
 
 실행하실 때 surveymapBack, surveymapFront 디렉터리 각각에 npm i 명령어 실행 후 surveymapBack 디렉터리에서 node app.js 명령어 입력해 주세요.
-이후 http://localhost:3002/로 접속하시면 됩니다.
+이후 http://localhost:3002/ 로 접속하시면 됩니다.
